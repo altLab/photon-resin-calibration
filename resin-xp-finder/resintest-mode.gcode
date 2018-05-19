@@ -4,7 +4,7 @@
 
 
 ;(Delete all parameters)
-M8513
+;M8513
 ;Delete all parameters stored in inboard memory
 ;
 ;
@@ -147,7 +147,7 @@ M8083	I1
 ;
 ;
 ;(Z limit and zero limit difference, the value is usually positive)
-M8084	Z0
+;M8084	Z0
 ;	If you want to set the offset in the configuration, please remove the semicolon in front of the line command. You can also configure the offset automatically by setting°Z Zero¡± on the interface.      
 ;
 ;
