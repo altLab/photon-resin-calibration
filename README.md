@@ -11,7 +11,7 @@ Reading the results
 
 This resin test by Tycho Pandelaar was run with the base exposure at 10s and the normal exposure at 3s
 
-The photo shows the porbable best setting for his resin would be 10s+(3sx3.5) = 40.5 seconds per layer
+The photo shows the probable best setting for his resin would be 10s+(3sx3.5) = 40.5 seconds per layer
 The minimum viable exposure is probably around 10+(3x1.5) = 14.5 
 
 This means this resin exposure latitude is safe to assume to be around 15s to 41s, Use faster times only for thinner layers  
