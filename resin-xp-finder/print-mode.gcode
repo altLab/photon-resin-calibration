@@ -4,7 +4,7 @@
 
 
 ;(Delete all parameters)
-M8513
+;M8513
 ;Delete all parameters stored in inboard memory
 ;
 ;
@@ -100,7 +100,7 @@ M8029	S0
 ;
 ;(Z axis park position (0,0,0)
 M8029	C0	
-;	0 :ØZ Return to cordinate 0,0,0
+;	0 :Ã˜Z Return to cordinate 0,0,0
 ;	1 :Stay in the limit position
 ;
 ;
@@ -147,8 +147,8 @@ M8083	I1
 ;
 ;
 ;(Z limit and zero limit difference, the value is usually positive)
-M8084	Z0
-;	If you want to set the offset in the configuration, please remove the semicolon in front of the line command. You can also configure the offset automatically by setting°Z Zero¡± on the interface.      
+;M8084	Z0
+;	If you want to set the offset in the configuration, please remove the semicolon in front of the line command. You can also configure the offset automatically by settingÂ°Z ZeroÂ¡Â± on the interface.      
 ;
 ;
 ;(Boot LOGO time)
