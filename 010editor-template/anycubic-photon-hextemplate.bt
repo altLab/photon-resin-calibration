@@ -3,18 +3,18 @@
 //
 //      File: Photon
 //   Authors: Reox86
-//   Version: 0.1
+//   Version: 0.1.2
 //   Purpose: 
 //  Category: 
 // File Mask: 
 //  ID Bytes: 
-//   History: 
+//   History: X3msnake - offTime corrected it is a float instead of int
 //------------------------------------------------
 
 typedef struct {
     float layerHeight <fgcolor=cBlack, bgcolor=cWhite>;
     float bottomExposureTime <fgcolor=cBlack, bgcolor=cWhite>;
-    int offTime <fgcolor=cBlack, bgcolor=cWhite>;
+    float offTime <fgcolor=cBlack, bgcolor=cWhite>;
 
 //-----Enough to fetch layer data non-sequentially
     int dataStartPos <fgcolor=cBlack, bgcolor=cWhite>;
@@ -42,7 +42,7 @@ struct FILE{
         float layerThickness <fgcolor=cBlack, bgcolor=cWhite>;
         float normalExposure <fgcolor=cBlack, bgcolor=cWhite>;
         float bottomExposure <fgcolor=cBlack, bgcolor=cWhite>;
-        int offTime <fgcolor=cBlack, bgcolor=cWhite>;
+        float offTime <fgcolor=cBlack, bgcolor=cWhite>;
         int nBottomLayers <fgcolor=cYellow, bgcolor=cWhite>; //Haven't found where these layers show up
         int resolutionX <fgcolor=cBlack, bgcolor=cWhite>;
         int resolutionY <fgcolor=cBlack, bgcolor=cWhite>;
