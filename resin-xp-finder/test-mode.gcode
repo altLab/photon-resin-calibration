@@ -34,7 +34,7 @@
 ;
 ;
 ;(Acceleration)
-;M8008	I700
+M8008	I25
 ;	The higher the acceleration the faster the overall print time. Too high risks losing steps.
 ;
 ;

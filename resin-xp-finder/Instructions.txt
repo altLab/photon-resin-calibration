@@ -1,0 +1,54 @@
+# ANYCUBIC RESIN EXPOSURE FINDER by X3msnake
+
+---------------------------------------------
+
+### PREPARATION ###
+
+Download and unzip your folder
+Copy resin-xp-finder folder to your machine USB
+
+
+### SETUP ###
+
+- Make sure your machine is levelled before running the test
+- Insert and fix your vat and build platform
+- Load your Vat with with your test resin
+
+
+### ENABLE MACHINE TEST MODE ###
+
+- Run test-mode.gcode
+
+
+### EXPOSE YOUR TEST RESIN ###
+
+- Run resin-test-005.100.2.20.photon
+
+
+### CLEAN AND CURE FILM ###
+
+- Remove your Build Plate
+- Rinse with your resin cleaning Sovent (Usually IPA)
+- Cleanup your plate
+- Cure your test Film still in plate
+- After curing you can gently peel off your film from the plate
+
+
+### MAKING SENSE OF THE RESULTS ###
+
+- To know what exposure time each column represents, just multiply the column number by 2
+- Resin minimum exposure: Look for the first column were the cured graphics begin to show 
+- Resin sweet spot: find the first column where you can see most of the details the one just before the negative spaces start to disapear
+- Resin overexposure: The negative space starts to disapear
+- Resin underexposure: The small lines and details are missing 
+
+
+### RETURN YOUR MACHINE TO PRINT MODE ###
+
+- Run print-mode.gcode
+
+
+---------------------------------------------
+
+That's It, dial in your new found settings on a test piece and enjoy the magic
+
