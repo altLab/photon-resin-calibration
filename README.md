@@ -24,8 +24,12 @@ You can see that the minimum viable exposure for this resin (The first resin col
 
 The poor job in cleaning the resin excess makes it more less impossible to detect what are the other important settings :P
 
-
 ---
 Kudos to @Reonarudo for finding what makes .photon files tick. Check his project to convert images into .photon files (here)[https://github.com/Reonarudo/pcb2photon]
 
 Kudos to Toby1kanobi in the anycubic owners forum for translating and cleaning up the gcode file used to switch modes in the printer
+
+---
+
+![image](https://user-images.githubusercontent.com/11083514/40305776-ebbef9c6-5cf3-11e8-9763-3a95179a456c.png)
+You can find the source 3D Model that was used for this hack test [here](https://a360.co/2IDQpNy) 
