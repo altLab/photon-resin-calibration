@@ -13,21 +13,12 @@ https://www.youtube.com/watch?v=0fksIkSthl8
 Reading the results
 ![image](https://user-images.githubusercontent.com/11083514/40270445-874d4e94-5b85-11e8-99b4-94fece56fad1.png)
 
-This resin test by Tycho Pandelaar was run with the base exposure at 10s and the normal exposure at 3s
-
-The photo shows the probable best setting for his resin would be 10s+3sx(3.5-1) = 17.5 seconds per layer
-The minimum viable exposure is probably around 10+3x(1.5-1) = 11.5 
-
-This means this resin exposure latitude is safe to assume to be around 15s to 41s, Use faster times only for thinner layers  
-
-Another thing we can learn from the test is The minimum XY positive and negative details
-Negative Space: 0.09mm
-Positive Space: 0.08mm
+This resin test by Tycho Pandelaar was run with the old file version that exposed to the FEP
 
 ----
 ![image](https://user-images.githubusercontent.com/11083514/40264048-e9b664de-5b13-11e8-9322-67906841a8fd.png)
 
-This poor job of a test was my own, made with anycubic gree resin, was run with the base exposure and normal exposure at 2s
+This poor job of a test was my own done with the old version that exposed to the FEP, made with anycubic green resin, was run with the base exposure and normal exposure at 2s
 
 You can see that the minimum viable exposure for this resin (The first resin column to cure) is 2sx4 = 8s this is the setting i use for 2.5µ layers
 
