@@ -4,51 +4,43 @@
 
 ### PREPARATION ###
 
-Download and unzip your folder
-Copy resin-xp-finder folder to your machine USB
-
+Download and unzip the 'resin-xp-finder' folder to your machine USB
 
 ### SETUP ###
 
 - Make sure your machine is levelled before running the test
-- Insert and fix your vat and build platform
-- Load your Vat with with your test resin
-
+- Insert and fix the vat and build platform
+- Load the vat with the resin you want to test
 
 ### ENABLE MACHINE TEST MODE ###
 
-- Run test-mode.gcode
+- Run 'test-mode.gcode' (one of the files in the 'resin-xp-finder' folder)
 
+### EXPOSE YOUR RESIN ###
 
-### EXPOSE YOUR TEST RESIN ###
-
-- Run resin-test-005.100.2.20.photon
-
+- Run 'resin-test-005.100.2.20.photon' (one of the files in the 'resin-xp-finder' folder)
 
 ### CLEAN AND CURE FILM ###
 
-- Remove your Build Plate
-- Rinse with your resin cleaning Sovent (Usually IPA)
-- Cleanup your plate
-- Cure your test Film still in plate
-- After curing you can gently peel off your film from the plate
-
+At the end of the test:
+- Remove the build platform
+- Rinse with the appropriate resin cleaning solvent (usually IPA), making sure excess resin is removed
+- Cure the test film still attached to the build platform
+- After curing gently peel off the film
 
 ### MAKING SENSE OF THE RESULTS ###
-
-- To know what exposure time each column represents, just multiply the column number by 2
-- Resin minimum exposure: Look for the first column were the cured graphics begin to show 
-- Resin sweet spot: find the first column where you can see most of the details the one just before the negative spaces start to disapear
-- Resin overexposure: The negative space starts to disapear
-- Resin underexposure: The small lines and details are missing 
-
+ 
+- To know what exposure time each column represents, just multiply the column number by 2 (col1 = 2sec, col2 = 4sec,... col10 = 20 sec)
+- Resin underexposure: the small lines and details are missing 
+- Resin minimum exposure: the first column were the cured graphics begin to show 
+- Resin sweet spot: the first column where you can see most of the details (the one just before the negative spaces start to disappear)
+- Resin overexposure: colunmns where the negative space starts to disapear
 
 ### RETURN YOUR MACHINE TO PRINT MODE ###
 
-- Run print-mode.gcode
-
+- Run 'print-mode.gcode' (one of the files in the 'resin-xp-finder' folder)
 
 ---------------------------------------------
 
-That's It, dial in your new found settings on a test piece and enjoy the magic
+That's it, dial in your new found exposure time on a test piece and enjoy the magic
 
