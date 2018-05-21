@@ -1,8 +1,12 @@
 # photon-resin-calibration
 Anycubic Photon - Files and method to quickly finde the best exposure settings for any resin or UV film
 
-First walktrough video
+First release is ready for public testing here: 
+
+Context video
 https://www.youtube.com/watch?v=0fksIkSthl8
+
+![photo_20180521_004205 1](https://user-images.githubusercontent.com/11083514/40287288-2fe8adcc-5ca4-11e8-8a80-86d8516df68a.jpg)
 
 ---
 
