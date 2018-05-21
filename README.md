@@ -32,4 +32,4 @@ Kudos to Toby1kanobi in the anycubic owners forum for translating and cleaning u
 ---
 
 ![image](https://user-images.githubusercontent.com/11083514/40305776-ebbef9c6-5cf3-11e8-9763-3a95179a456c.png)
-You can find the source 3D Model that was used for this hack test [here](https://a360.co/2IDQpNy) 
+You can find the source CAD Model that was used for this hack test [here](https://a360.co/2IDQpNy) 
