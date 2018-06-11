@@ -3,10 +3,14 @@ Anycubic Photon - Files and method to quickly finde the best exposure settings f
 
 New release is ready for production testing here: [Latest Release](https://github.com/altLab/photon-resin-calibration/releases/latest)
 
-![testphoton2 0](https://user-images.githubusercontent.com/11083514/41207954-7dd472f6-6d15-11e8-8b1c-ae59589f49c2.png)
-
 Context video
 https://www.youtube.com/watch?v=0fksIkSthl8
+
+Detailed instruction text inside the release zip file
+
+![testphoton2 0](https://user-images.githubusercontent.com/11083514/41207954-7dd472f6-6d15-11e8-8b1c-ae59589f49c2.png)
+
+
 
 ![photo_20180521_004205 1](https://user-images.githubusercontent.com/11083514/40287288-2fe8adcc-5ca4-11e8-8a80-86d8516df68a.jpg)
 
