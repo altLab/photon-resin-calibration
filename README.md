@@ -4,7 +4,7 @@ Anycubic Photon - Files and method to quickly find the best exposure settings fo
 
 The exposure tester removes most of the guesswork on layer time exposure by using multiple consecutive exposures to simulate different unique layer times for each test colum. 
 
-All this with the added bonus of learning, for each column exposure time, the minimum viable width for positive and negative space details, all in one go.
+All this with the added bonus of learning all in one go, the minimum viable width for positive and negative space details of each column exposure time.
 
 ----
 
