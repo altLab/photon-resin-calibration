@@ -1,5 +1,5 @@
 # photon-resin-calibration
-Anycubic Photon - Files and method to quickly finde the best exposure settings for any resin or UV film
+Anycubic Photon - Files and method to quickly find the best exposure settings for any resin or UV film
 
 New release is ready for production testing here: [Latest Release](https://github.com/altLab/photon-resin-calibration/releases/latest)
 
