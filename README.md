@@ -2,7 +2,7 @@
 
 Anycubic Photon - Files and method to quickly find the best exposure settings for any resin or UV film
 
-The exposure tester removes most of the guesswork on layer time exposure by using multiple consecutive exposures to simulate different unique layer times for each test colum. 
+The exposure range (latitude) tester removes most of the guesswork on layer time exposure by using multiple consecutive exposures to simulate different unique layer times for each test colum. 
 
 All this with the added bonus of learning all in one go, the minimum viable width for positive and negative space details of each column exposure time.
 
