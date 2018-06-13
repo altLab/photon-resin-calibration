@@ -13,6 +13,9 @@ New release is ready for production testing here: [Latest Release](https://githu
 Context video
 https://www.youtube.com/watch?v=0fksIkSthl8
 
+Under the hood
+https://www.youtube.com/watch?v=s_NIeiNoKi0&t=73s
+
 Detailed instruction text inside the release zip file
 
 ![testphoton2 0](https://user-images.githubusercontent.com/11083514/41207954-7dd472f6-6d15-11e8-8b1c-ae59589f49c2.png)
