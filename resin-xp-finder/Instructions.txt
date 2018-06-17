@@ -1,46 +1,49 @@
 # ANYCUBIC RESIN EXPOSURE FINDER by X3msnake
-
 ---------------------------------------------
-
-### PREPARATION ###
-
-Download and unzip the 'resin-xp-finder' folder to your machine USB
+Download and unzip the 'resin-xp-finder' folder to a USB stick
 
 ### SETUP ###
-
 - Make sure your machine is levelled before running the test
 - Insert and fix the vat and build platform
 - Load the vat with the resin you want to test
 
 ### ENABLE MACHINE TEST MODE ###
-
 - Run 'test-mode.gcode' (one of the files in the 'resin-xp-finder' folder)
 
-### EXPOSE YOUR RESIN ###
+### TEST YOUR RESIN ###
+There are 2 initial resin test files that work for most resins
+'resin-test-25u.B100.2-20.photon'
+'resin-test-50u.B100.2-20.photon'
 
-- Run 'resin-test-005.100.2.20.photon' (one of the files in the 'resin-xp-finder' folder)
+25u/50u  - Layer height: 25/50 microns
+B100 - Base Layer exposure time: 100 sec
+2-20 - Exposure range time: 2 to 20 sec
+
+I recommend running 'resin-test-50u.B100.2-20.photon' first.
+
+You may also run the 25 micron layer height test file ('resin-test-25u.B100.2-20.photon') to know the results of your resin for thinner layers. 
+
+If you know your resin is a slow curing one you should use the test files inside the 'slow_resin_tests' folder instead.
 
 ### CLEAN AND CURE FILM ###
-
 At the end of the test:
 - Remove the build platform
-- Rinse with the appropriate resin cleaning solvent (usually IPA), making sure excess resin is removed
-- Cure the test film still attached to the build platform
-- After curing gently peel off the film
+- Rinse gently but thoroughly with the appropriate solvent (usually isopropyl alcohol)
+- UV Post-cure the test print for 15 minutes
+- After curing gently peel off the test print from the build platform
 
 ### MAKING SENSE OF THE RESULTS ###
- 
-- To know what exposure time each column represents, just multiply the column number by 2 (col1 = 2sec, col2 = 4sec,... col10 = 20 sec)
 - Resin underexposure: the small lines and details are missing 
 - Resin minimum exposure: the first column were the cured graphics begin to show 
-- Resin sweet spot: the first column where you can see most of the details (the one just before the negative spaces start to disappear)
-- Resin overexposure: colunmns where the negative space starts to disapear
+- Resin sweet-spot: the first column where you can see most of the details (the one just before the negative spaces start to get filled in)
+- Resin overexposure: colunmns where the negative space gets filled in
+- To know what exposure time each column represents, multiply the column number by 2 (C1 = 2sec, C2 = 4sec,... C10 = 20 sec)
+
+- If using the slow curing resin files, multiply the column number by the first value of the exposure range:
+'resin-test-25u.B150.6-60.photon': C1 = 6sec, C2 = 12sec,... C10 = 60 sec
+'resin-test-25u.B150.10-100.photon': C1 = 10sec, C2 = 20sec,... C10 = 100 sec
+'resin-test-25u.B150.20-200.photon': C1 = 20sec, C2 = 40sec,... C10 = 200 sec
 
 ### RETURN YOUR MACHINE TO PRINT MODE ###
-
-- Run 'print-mode.gcode' (one of the files in the 'resin-xp-finder' folder)
-
----------------------------------------------
-
-That's it, dial in your new found exposure time on a test piece and enjoy the magic
+- Run 'print-mode.gcode' (also in the 'resin-xp-finder' folder), dial in your sweet exposure time on a test piece and enjoy the magic!
 
