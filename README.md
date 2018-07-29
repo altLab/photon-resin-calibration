@@ -22,6 +22,8 @@ Detailed instruction text inside the release zip file
 
 ![github-photon-file-blueprint](https://user-images.githubusercontent.com/11083514/41252121-22bf60d4-6db4-11e8-8a58-d45a88982981.png)
 
+Below is an example of validation models done from a 2-20s range card, revealing a usable range of 8-18s exposure time.
+
 ![Resin Test and time effect](https://raw.githubusercontent.com/Photonsters/anycubic-photon-docs/master/resin-tests/Ameralabs-AMD3-Black-180709-x3msnake.jpg)
 
 ---
