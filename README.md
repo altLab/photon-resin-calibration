@@ -22,7 +22,7 @@ Detailed instruction text inside the release zip file
 
 ![github-photon-file-blueprint](https://user-images.githubusercontent.com/11083514/41252121-22bf60d4-6db4-11e8-8a58-d45a88982981.png)
 
-![photo_20180521_004205 1](https://user-images.githubusercontent.com/11083514/40287288-2fe8adcc-5ca4-11e8-8a80-86d8516df68a.jpg)
+![Resin Test and time effect](https://raw.githubusercontent.com/Photonsters/anycubic-photon-docs/master/resin-tests/Ameralabs-AMD3-Black-180709-x3msnake.jpg)
 
 ---
 Kudos to @Reonarudo for finding what makes .photon files tick. Check his project to convert images into .photon files (here)[https://github.com/Reonarudo/pcb2photon]
