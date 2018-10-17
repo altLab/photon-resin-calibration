@@ -6,6 +6,9 @@ The exposure range (latitude) tester removes most of the guesswork on layer time
 
 All this with the added bonus of learning all in one go, the minimum viable width for positive and negative space details of each column exposure time.
 
+[How to use - Photonsters Youtube by Jay Sterling](https://www.youtube.com/watch?v=dguwzAg7Un4)
+
+
 ----
 
 New release is ready for production testing here: [Latest Release](https://github.com/altLab/photon-resin-calibration/releases/latest)
