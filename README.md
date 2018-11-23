@@ -6,6 +6,9 @@ The exposure range (latitude) tester removes most of the guesswork on layer time
 
 All this with the added bonus of learning all in one go, the minimum viable width for positive and negative space details of each column exposure time.
 
+[How to use - Photonsters Youtube by Jay Sterling](https://www.youtube.com/watch?v=dguwzAg7Un4)
+
+
 ----
 
 New release is ready for production testing here: [Latest Release](https://github.com/altLab/photon-resin-calibration/releases/latest)
@@ -22,7 +25,9 @@ Detailed instruction text inside the release zip file
 
 ![github-photon-file-blueprint](https://user-images.githubusercontent.com/11083514/41252121-22bf60d4-6db4-11e8-8a58-d45a88982981.png)
 
-![photo_20180521_004205 1](https://user-images.githubusercontent.com/11083514/40287288-2fe8adcc-5ca4-11e8-8a80-86d8516df68a.jpg)
+Below is an example of validation models done from a 2-20s range card, revealing a usable range of 8-18s exposure time.
+
+![Resin Test and time effect](https://raw.githubusercontent.com/Photonsters/anycubic-photon-docs/master/resin-tests/Ameralabs-AMD3-Black-180709-x3msnake.jpg)
 
 ---
 Kudos to @Reonarudo for finding what makes .photon files tick. Check his project to convert images into .photon files (here)[https://github.com/Reonarudo/pcb2photon]
