@@ -14,8 +14,7 @@ All this with the added bonus of learning all in one go, the minimum viable widt
 Context video
 https://www.youtube.com/watch?v=0fksIkSthl8
 
-The origins of this test come from a silkcreen and darkroom tuning technique called step wedge test, read about it here: 
-https://web.archive.org/web/20190409185035/https://medium.com/@spotprintsonline/step-wedge-test-a-high-quality-print-requires-a-good-stencils-cb1fbaa11998
+The origins of this test come from a silkcreen and darkroom tuning technique called step wedge test, read about it [> here <](https://web.archive.org/web/20190409185035/https://medium.com/@spotprintsonline/step-wedge-test-a-high-quality-print-requires-a-good-stencils-cb1fbaa11998)
 
 Under the hood
 https://www.youtube.com/watch?v=s_NIeiNoKi0&t=73s
