@@ -8,6 +8,7 @@ All this with the added bonus of learning all in one go, the minimum viable widt
 
 [How to use - Photonsters Youtube by Jay Sterling](https://www.youtube.com/watch?v=dguwzAg7Un4)
 
+![image](https://user-images.githubusercontent.com/11083514/59956553-f5b12080-9488-11e9-8497-522ef3fb39f1.png)
 
 ----
 
