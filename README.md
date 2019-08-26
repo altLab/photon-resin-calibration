@@ -14,7 +14,7 @@ All this with the added bonus of learning all in one go, the minimum viable widt
 
 ![github-photon-file-blueprint](https://user-images.githubusercontent.com/11083514/41252121-22bf60d4-6db4-11e8-8a58-d45a88982981.png)
 
-###QUICK READ OF A CARD
+### QUICK READ OF A CARD
 - Start from top and locate first well formed circle column
 - Move to bottom last visible Circle
 - Move right untill the circle starts to clog
