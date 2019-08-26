@@ -6,6 +6,13 @@ The exposure range (latitude) tester removes most of the guesswork on layer time
 
 All this with the added bonus of learning all in one go, the minimum viable width for positive and negative space details of each column exposure time.
 
+QUICK READ OF A CARD
+- Start from top and locate first well formed circle column
+- Move to bottom last visible Circle
+- Move right untill the circle starts to clog
+- Backtrack one colum
+- That's your sweetspot
+
 [How to use - Photonsters Youtube by Jay Sterling](https://www.youtube.com/watch?v=P5p4IgZuqMA)
 
 ----
