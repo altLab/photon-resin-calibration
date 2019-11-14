@@ -1,10 +1,13 @@
 # photon-resin-calibration
 
-Anycubic Photon - Files and method to quickly find the best exposure settings for any resin or UV film
+### The Photon Resin Calibration Tester (often called the Exposure Finder or XP Finder for short) 
+is a method that allows you to quickly find the best exposure settings for any resin or UV film. 
 
-The exposure range (latitude) tester removes most of the guesswork on layer time exposure by using multiple consecutive exposures to simulate different unique layer times for each test colum. 
+Due to its ease of use and fast results, it has become the de-facto test method used by thousands of owners for their Anycubic Photon (original) 3D Printer, and for other CBDtech based printers such as the Epax X1 and Elegoo Mars. 
 
-All this with the added bonus of learning all in one go, the minimum viable width for positive and negative space details of each column exposure time.
+This exposure range (latitude) tester removes most of the guesswork on layer time exposure by using multiple consecutive exposures to simulate different unique layer times for each test column. 
+
+And it comes with the added bonus of learning all in one go, the minimum viable width for positive and negative space details of each column exposure time.
 
 [How to use - Photonsters Youtube by Jay Sterling](https://www.youtube.com/watch?v=P5p4IgZuqMA)
 
@@ -24,21 +27,26 @@ All this with the added bonus of learning all in one go, the minimum viable widt
 ![image](https://user-images.githubusercontent.com/11083514/59956553-f5b12080-9488-11e9-8497-522ef3fb39f1.png)
 
 ----
+
+### Example Prints
 Below is an example of validation models done from a 2-20s range card, revealing a usable range of 8-18s exposure time.
 
 ![Resin Test and time effect](https://raw.githubusercontent.com/Photonsters/anycubic-photon-docs/master/resin-tests/Ameralabs-AMD3-Black-180709-x3msnake.jpg)
 
 ----
 
-Context video
+### Context Video
 https://www.youtube.com/watch?v=0fksIkSthl8
 
 The origins of this test come from a silkcreen and darkroom tuning technique called step wedge test, read about it [> here <](https://web.archive.org/web/20190409185035/https://medium.com/@spotprintsonline/step-wedge-test-a-high-quality-print-requires-a-good-stencils-cb1fbaa11998)
 
-Under the hood
+### Under The Hood
 https://www.youtube.com/watch?v=s_NIeiNoKi0&t=73s
 
 ---
+
+### Acknowledgements
+
 Kudos to @Reonarudo for finding what makes .photon files tick. Check his project to convert images into .photon files (here)[https://github.com/Reonarudo/pcb2photon]
 
 Kudos to Toby1kanobi in the anycubic owners forum for translating and cleaning up the gcode file used to switch modes in the printer
